@@ -1,4 +1,4 @@
-# <center> JavaScript
+# JavaScript
 
 ## 组成
 
